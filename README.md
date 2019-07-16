@@ -6,9 +6,9 @@ La consultoría Touchpoints México nos dio el reto de mejorar el servicio de lo
 
 La propuesta aborda cinco touchpoints del servicio de ATM; rediseño de la interfaz del cajero para generar el reporte del problema, ofrecer un ticket o comprobante que indiqué el problema que presentó el ATM, diseño de un cartel informativo sobre cómo dar seguimiento vía telefónica; elaboración del script para los operadores del call center; y la opción de conocer el estatus del reporte en la aplicación del banco.
 
-Miembros del equipo: Adriana Acosta, Ariadna Gutiérrez, Maritza Díaz, Cristal García
-Rol: UX Reseach
-Duración: Dos sprints
+- Miembros del equipo: Adriana Acosta, Ariadna Gutiérrez, Maritza Díaz, Cristal García
+- Rol: UX Reseach
+- Duración: Dos sprints
 
 ## Preámbulo
 El cajero automático ha evolucionado en los últimos años, no sólo como un medio para expender efectivo, si no como un multicanal para ofrecer otros servicios bancarios como depósitos, transferencias, venta de tiempo aire o colectas de donativos. En México, los cajeros tienen un papel protagónico y prioritario para los bancos, debido a que el 60% de los pagos se hacen en efectivo, por lo que contribuyen en una mayor penetración bancaria.
