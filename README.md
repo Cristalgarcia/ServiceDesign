@@ -20,7 +20,7 @@ Identificar y solucionar el principal problema de los cajeros automáticos para 
 
 ## Metodología 
 El proyecto está desarrolllado bajo el mindset Design Thinking y el proceso de diseño de doble diamante.
-![metodología]()
+![metodología](https://camo.githubusercontent.com/b94c6e16bee46d7ecacbffd6b2e364000112598d/68747470733a2f2f692e6962622e636f2f723252704c546e2f436170747572612d64652d70616e74616c6c612d323031392d30362d30332d612d6c612d732d31392d33332d34342e706e67)
 
 ## Descubrir 
 
@@ -47,6 +47,7 @@ Analizamos los sitios web y las aplicaciones bancarias de Citibanamex, Santander
 
 ### Mapa de stakeholders
 En este punto, mapeamos los stakeholders que están involucrados en el servicio de uso de cajero, específicamente cuando el usuario tiene un problema con éste. El mapa destaca el área de atención a cliente al ser el principal punto de interacción.
+![mapa](https://camo.githubusercontent.com/842497b0a8e4622845774d0782f957149055ff14/68747470733a2f2f692e6962622e636f2f714633565a64562f436170747572612d64652d70616e74616c6c612d323031392d30362d30332d612d6c612d732d32322d33322d31312e706e67)
 
 ### Entrevista
 Realizamos un total de seis entrevistas, tres personas digitales y tres de personas no digitales con la finalidad de saber cuál era su experiencia al utilizar el servicio del cajero automático. Las respuestas de los entrevistados dieron paso a localizar los pains y los gains del uso del servicio para, posteriormente, idear la solución del problema.
