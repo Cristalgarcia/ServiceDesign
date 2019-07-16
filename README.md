@@ -156,7 +156,7 @@ Citibanamex cuenta con una aplicación móvil; para aprovechar este canal integr
 ### Atención telefónica
 
 Los usuarios buscan tener un contacto vía telefónica para aclarar sus dudas. Para brindar un buen servicio a cliente propusimos un protocolo de atención telefónica para las personas que laboran en el call center de Citibanamex. Asimismo, elaboramos el script del área de atención a cliente, donde tienen que explicar el por qué del problema y aceptar la responsabilidad del banco ante el problema. Para agilizar el proceso, el personal de atención a cliente solicitará sólo tres datos para verificar la identidad; nombre completo, número de reporte y cantidad a retirar.
-![att](https://github.com/Cristalgarcia/ServiceDesign/blob/master/assets/protocolo_sd.PNG)
+![att](https://github.com/maridiaz/ServiceDesign/blob/master/propuesta/protocolo.png)
 
 ## Solución
 Video: https://youtu.be/FjI1-xTmI34 
